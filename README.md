@@ -18,3 +18,8 @@ below is a list of the various relevant data variables showcased in this project
 The bulk of this project will focus on migrating data from one Tableau enviroment to
 another. This should provide a framework for anyone looking to migrate enviroments 
 themselves and wants a bit more customizability. 
+
+While Tableau does support documentation for this library, the amount of code snip
+examples are few and far between. Specifically in situations where elements of 
+a Tableau server want to be copied to a different enviroment, this project
+should provide the reader with an extensive blueprint of what is possible.
